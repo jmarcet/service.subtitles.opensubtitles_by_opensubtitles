@@ -1,5 +1,5 @@
-OpenSubtitles.org by OpenSubtitles KODI add-on
-==============================================
+OpenSubtitles.org by OpenSubtitles KODI add-on with dual language
+=================================================================
 
 How to install this addon in KODI:
 - Download https://github.com/moham96/script.module.pysubs2/releases/download/v0.1.0/script.module.pysubs2.zip
